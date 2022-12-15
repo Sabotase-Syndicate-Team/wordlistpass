@@ -1,2 +1,3 @@
 # wordlistpass
-wget
+Download Bukan Dimakan
+Hehehehe
