@@ -1,0 +1,2 @@
+# wordlistpass
+wget
